@@ -1,6 +1,6 @@
 # Event_Management_System_in_Java
 
-BUILD OUTPUT DESCRIPTION
+# BUILD OUTPUT DESCRIPTION
 
 
 When you build an Java application project that has a main class, the IDE
